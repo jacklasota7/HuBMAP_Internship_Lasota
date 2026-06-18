@@ -68,7 +68,7 @@ heart = ad.read_h5ad("HT_raw.h5ad")
 | `heart.obs` | Cell-level metadata (e.g., `predicted_label` for cell type annotations) |
 | `heart.var` | Gene-level metadata (e.g., `hugo_symbol`) |
 
-Pandas is used to interrogate `.obs` — for example, `value_counts()` on `predicted_label` gives the distribution of cell types present in the dataset.
+Pandas is used to interrogate `.obs`. For example, `value_counts()` on `predicted_label` gives the distribution of cell types present in the dataset.
 
 ---
 
