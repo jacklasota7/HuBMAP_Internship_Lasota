@@ -2,7 +2,7 @@
 **Pittsburgh Supercomputing Center (PSC) — HuBMAP Project**  
 PSC / Carnegie Mellon University
 
-Analysis and integration of single-cell RNA sequencing (scRNAseq) data from the HuBMAP Consortium using standardized, reproducible pipelines. The goal is to transform raw biological data into clean, structured datasets ready for exploration, visualization, and cell-type annotation. As well as, building accessible tools for interpreting the results.
+Analysis and integration of single-cell RNA sequencing (scRNAseq) data from the HuBMAP Consortium using standardized, reproducible pipelines. The goal is to transform raw biological data into clean, structured datasets ready for exploration, visualization, and cell-type annotation. Additionally, building accessible tools for interpreting the results.
 
 ---
 
